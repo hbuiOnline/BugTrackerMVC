@@ -8,7 +8,6 @@ A web application that tracks the progress of tickets of bugs or requests from t
 -  Backend: PHP
 -  Frontend: HTML & Bootstrap CSS
 -  Server: Apache
--  MVC Design Pattern
 
 ## License
 
