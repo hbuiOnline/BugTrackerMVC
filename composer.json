@@ -1,0 +1,6 @@
+{
+    "require": {
+    "owasp/phprbac": "2.0.*@dev",
+        "mpdf/mpdf": "^8.0"
+  }
+}

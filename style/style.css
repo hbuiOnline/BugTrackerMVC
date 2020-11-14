@@ -1,0 +1,59 @@
+.signupsuccess {
+  text-align: center;
+  color: #34eb55;
+}
+
+.signuperror {
+  text-align: center;
+  color: #eb0000;
+}
+
+input.form-control.ticket-mordal{
+  width: 70%;
+  margin: 20px auto;
+}
+
+button.btn.btn-primary.btn-mordal {
+  margin: 10px 42.5% 20px;
+}
+
+select.ticket-option.form-control{
+  width: 70%;
+  margin: 0px auto 10px;
+}
+
+label.optionlist{
+  margin: 0px 39% 8px;
+}
+
+label#dropdown-options.optionlist{
+  margin: 0px 37.9% 8px;
+}
+label#dropdown-options.optionlist.ticketedit {
+  margin: 0px 18% 8px;
+}
+
+p.projectdetail{
+  padding-left: 20px;
+}
+
+p.text-gray-500{
+  margin-bottom: 5px;
+}
+
+p.p-sub{
+  margin-bottom: 0px;
+}
+
+a.prjbtnedit{
+  margin-top:8px;
+}
+
+div.card.shadow.mb-4.card-cm-head{
+  margin-top: 10px;
+}
+
+button.demo-user {
+  border-width: 0px;
+  background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,15 @@
+i.fas.fa-circle.text-primary::before{
+  color: #4e73df !important;
+}
+
+i.fas.fa-circle.text-success::before{
+  color: #ee3d3d !important;
+}
+
+i.fas.fa-circle.text-info::before{
+  color: #fca92b !important;
+}
+
+i.fas.fa-circle.text-secondary::before{
+  color: #1cc88a !important;
+}
