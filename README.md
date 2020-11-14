@@ -9,6 +9,10 @@ A web application that tracks the progress of tickets of bugs or requests from t
 -  Frontend: HTML & Bootstrap CSS
 -  Server: Apache
 
+## Authors
+
+-  Han Bui - [hbuiOnline](https://github.com/hbuiOnline)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
